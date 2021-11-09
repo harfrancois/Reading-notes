@@ -6,8 +6,8 @@
 
 ### Reminders To Myself
 
-- "It's going to be ok."
+- > "It's going to be ok."
 
-> - "What doesn't kill you makes you stronger."
+- > "What doesn't kill you makes you stronger."
 
 - > "You'll never know if you don't try"

@@ -1,6 +1,6 @@
 # Growth Mindset
 
-#### Definihion
+#### [Definihion](https://www.renaissance.com/edwords/growth-mindset/)
     
 *The adaptability to learning new ideads and concept, through a positive outlook.*  
 

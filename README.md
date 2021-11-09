@@ -1,6 +1,8 @@
-** Growth Mindset
+# Growth Mindset
+
+## deffinishion
     
-* The adaptability to learning new ideads and concept, through a positive outlook.*  
+*The adaptability to learning new ideads and concept, through a positive outlook.*  
 
 Reminders To Myself
 

@@ -5,6 +5,8 @@
 - 4 spaces = 1 tab
 - **pwd** (The present working directory.)
 - **ls** (List all of the contents within the directory.)
+- **ls -l** (long detailed list of the directory.)
+- **ls /etc** (List the contents of the Folder.)
 - **cd** [name-of-folder] (Go into a specific folder.) example: cd MyFoldere
 - **cd ..** (Go back a directory level.)
 - **touch** [filename.ext] (Create a new file.) example: touch turkey.md
@@ -16,6 +18,4 @@
 - **rm** [name-of-file.ext] (Remove a file.) example: rm Terminal.md
 - **rm -r** (Remove all files.)
 - **/** (Separate sub directorys.)
-- **ls /etc** (List the contents of the directory.)
 - **clear** (Clear out terminal.)
-- **ls -l** (long detailed list of the directory.)

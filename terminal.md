@@ -16,5 +16,6 @@
 - **rm** [name-of-file.ext] (Remove a file.) example: rm Terminal.md
 - **rm -r** (Remove all files.)
 - **/** (Separate sub directorys.)
-- **/etc** (Stores config files for the system.)
-- **clear** (clear out terminal.)
+- **ls /etc** (List the contents of the directory.)
+- **clear** (Clear out terminal.)
+- **ls -l** (long detailed list of the directory.)

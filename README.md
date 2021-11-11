@@ -15,7 +15,7 @@
 - > "You'll never know if you don't try"
 
 
-
+[1 terminal](./terminal.md) 
 
 
 [GitHub Pages](https://github.com/harfrancois/Reading-notes)

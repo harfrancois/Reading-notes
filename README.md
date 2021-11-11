@@ -20,4 +20,4 @@
 
 [2 Terminal](./termilal.md)
 
-[3 Git](./terminal.md)
+[3 Git](./git.md)

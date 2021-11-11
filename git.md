@@ -17,3 +17,11 @@
 git push origin main *Upload all the files that were added to Github.*
 - git status *Check the status of git*
 - git clone (URL) *Copy all your codes from Github repository to your personal machine.* Example: git clone (https://github.com/harfrancois/Reading-notes.git)
+
+## Table Of Contents
+
+[1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
+
+[2 Terminal](./termilal.md)
+
+[3 Git](./git.md)

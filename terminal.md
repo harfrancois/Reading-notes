@@ -20,3 +20,11 @@
 - **rm -r** Remove all files within a directory.
 - **/** Separate the main from the sub directorys.
 - **clear** Clear out the terminal.
+
+## Table Of Contents
+
+[1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
+
+[2 Terminal](./termilal.md)
+
+[3 Git](./git.md)

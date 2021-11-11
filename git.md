@@ -22,6 +22,6 @@ git push origin main *Upload all the files that were added to Github.*
 
 [1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
 
-[2 Terminal](./termilal.md)
+[2 Terminal](./terminal.md)
 
 [3 Git](./git.md)

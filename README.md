@@ -18,6 +18,6 @@
 
 [1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
 
-[2 Terminal](./termilnal.md)
+[2 Terminal](./terminal.md)
 
 [3 Git](./git.md)

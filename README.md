@@ -2,7 +2,7 @@
 
 ![Image](https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/02/Carol-Dweck-Two-Mindsets.jpg)
 
-### [Definihion](https://www.renaissance.com/edwords/growth-mindset/)
+## Definihion
     
 *The adaptability to learning new ideads and concept, through a positive outlook.*  
 
@@ -14,8 +14,10 @@
 
 - > "You'll never know if you don't try"
 
+## Table Of Contents
 
-[1 terminal](./terminal.md) 
+[1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
 
+[2 Terminal](./termilal.md)
 
-[GitHub Pages](https://github.com/harfrancois/Reading-notes)
+[3 Git](./terminal.md)

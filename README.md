@@ -22,4 +22,6 @@
 
 [3 Git](./git.md)
 
-[3 css](./css.md)
+[3 CSS](./css.md)
+
+[4 JS](./js.md) 

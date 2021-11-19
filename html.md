@@ -22,3 +22,17 @@
 #### HTML Element Reference
 
     - link to html reference. https://www.w3schools.com/TAGS/default.ASP
+
+## Table Of Contents
+
+[1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
+
+[2 Terminal](./terminal.md)
+
+[3 HTML](./html.md)
+
+[4 Git](./git.md)
+
+[5 CSS](./css.md)
+
+[6 JS](./js.md) 

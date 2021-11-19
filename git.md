@@ -18,10 +18,18 @@ git push origin main *Upload all the files that were added to Github.*
 - git status *Check the status of git*
 - git clone (URL) *Copy all your codes from Github repository to your personal machine.* Example: git clone (https://github.com/harfrancois/Reading-notes.git)
 
+Reference guide to git. https://blog.udemy.com/git-tutorial-a-comp
+
 ## Table Of Contents
 
 [1 GitHub Pages](https://github.com/harfrancois/Reading-notes)
 
 [2 Terminal](./terminal.md)
 
-[3 Git](./git.md)
+[3 HTML](./html.md)
+
+[4 Git](./git.md)
+
+[5 CSS](./css.md)
+
+[6 JS](./js.md) 

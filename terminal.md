@@ -27,4 +27,10 @@
 
 [2 Terminal](./terminal.md)
 
-[3 Git](./git.md)
+[3 HTML](./html.md)
+
+[4 Git](./git.md)
+
+[5 CSS](./css.md)
+
+[6 JS](./js.md) 
